@@ -8,7 +8,7 @@
  * Ilmo sulkeutuu 26.2.
  * **Esitiedot**
    * JavaScript – frontend osaaminen riittää, ei tarvitse osata välttämättä ennestään Nodea.
-   * Git – projektit tulee Githubiin, muuten niitä ei tarkisteta.
+   * Git – projektit tulee Githubiin, se helpottaa tarkistusta.
 
 ## Käytännöt
  * Kaikille **pakollinen** demotilaisuus maanantaina 10.3. (kurssin deadline)
