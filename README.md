@@ -1,6 +1,7 @@
 [![kurssiesite](./media/header.png)](./media/kurssiesite.jpg)
 -----------------------
-*Toteuta unelmoimasi nodeprojekti yksin tai ryhmässä!*
+<sub>*Kurssiesitteen teki [Firesong](http://tulilaulu.net/). ^Klikkaa nähdäksesi^*</sub>
+#### *Toteuta unelmoimasi nodeprojekti yksin tai ryhmässä!*
 
 ## Ilmoittautuminen
  * Kurssin kapasiteetti 50 hlö
@@ -18,11 +19,12 @@
    * Päivittäkää repoa useasti, ei yhtä suurta pushia kurssin lopuksi.
  * Kieli on JavaScript, eli ei esim. CoffeeScript.
  * Vaaditut dokumentit
-   * Suunnitteludokumentti – alustava selitys ideasta
+   * Aihekuvaus – alustava selitys ideasta
    * Käyttöohje – miten projekti ajetaan ja miten sitä käytetään
 
 ## Ohjaus
  * IRC: #tkt-node
+   * Avainhenkilöt: [Tuhis](http://tuhoojabotti.com/), Rase-, mellowi
  * Ma-Pe xx – xx
  * Ohjausten alussa on ehkä "luento-osuus", jos tulee jotain materiaalia. (Ekoilla kerroilla ainakin)
 
