@@ -3,6 +3,8 @@
 <sub>*Kurssiesitteen teki [Firesong](http://tulilaulu.net/). ^Klikkaa nähdäksesi^*</sub>
 #### *Toteuta unelmoimasi nodeprojekti yksin tai ryhmässä!*
 
+### [:point_right: Ilmo on auki! :point_left:](https://ilmo.cs.helsinki.fi/ilmo/Yk?kk=582380&lk=K&lv=2014&tp=K&knro=1&kieli=S&toiminta=Luentokurssit)
+
 ## Ilmoittautuminen
  * Kurssin kapasiteetti 50 hlö
    * Ei ilmoittautumisjärjestyksessä, vaan valitaan törkeästi käsin, jos tulee tunkua.
@@ -23,10 +25,11 @@
    * Käyttöohje – miten projekti ajetaan ja miten sitä käytetään
 
 ## Ohjaus
- * IRC: #tkt-node
-   * Avainhenkilöt: [Tuhis](http://tuhoojabotti.com/), Rase-, mellowi
+ * IRC 24h: #tkt-node
+   * Avainhenkilöt: Ville Lahdenvuo ([Tuhis](http://tuhoojabotti.com/)), Tony Kovanen (Rase-), Mikko Johansson (mellowi)
  * Ma-Pe xx – xx
  * Ohjausten alussa on ehkä "luento-osuus", jos tulee jotain materiaalia. (Ekoilla kerroilla ainakin)
+ * Kysyttävää? Laita meiliä jollekin avainhenkilöistä. Osoitteet on tietenkin etunimi.sukunimi@helsinki.fi
 
 ## Projekti-ideoita
  * Gurulachat
