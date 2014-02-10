@@ -3,9 +3,7 @@
 <sub>*Kurssiesitteen teki [Firesong](http://tulilaulu.net/). ^Klikkaa nähdäksesi^*</sub>
 #### *Toteuta unelmoimasi nodeprojekti yksin tai ryhmässä!*
 
-### [:point_right: Ilmo on auki! :point_left:](https://ilmo.cs.helsinki.fi/ilmo/Yk?kk=582380&lk=K&lv=2014&tp=K&knro=1&kieli=S&toiminta=Luentokurssit)
-
-## Ilmoittautuminen
+## [:point_right: Ilmoittautuminen :point_left:](https://ilmo.cs.helsinki.fi/ilmo/Yk?kk=582380&lk=K&lv=2014&tp=K&knro=1&kieli=S&toiminta=Luentokurssit)
  * Kurssin kapasiteetti 50 hlö
    * Ei ilmoittautumisjärjestyksessä, vaan valitaan törkeästi käsin, jos tulee tunkua.
  * Ilmo sulkeutuu 26.2.
@@ -22,7 +20,7 @@
  * Kieli on JavaScript, eli ei esim. CoffeeScript.
  * Vaaditut dokumentit
    * Aihekuvaus – alustava selitys ideasta
-   * Käyttöohje – miten projekti ajetaan ja miten sitä käytetään
+   * Käyttöohje – miten projekti ajetaan ja miten sitä käytetään (README:ssa ohjeet riittää)
 
 ## Ohjaus
  * IRC 24h: #tkt-node
