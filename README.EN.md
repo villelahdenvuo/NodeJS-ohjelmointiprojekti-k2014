@@ -3,9 +3,12 @@
 <sub>*Poster by [Firesong](http://tulilaulu.net/). ^Click to view^*</sub>
 #### *Create your dream project alone or in a group!*
 
-### [:point_right: Sign up! :point_left:](https://ilmo.cs.helsinki.fi/ilmo/Yk?kk=582380&lk=K&lv=2014&tp=K&knro=1&kieli=E&toiminta=Luentokurssit)
+# DISCLAIMER
+ * **No official support for English, no material, just Google.**
+ * **If you make a cool app, we will give you credits, just follow the conventions. :)**
+ * **Guidance can be given in English to some extent.**
 
-## Sign up
+## [:point_right: Sign up :point_left:](https://ilmo.cs.helsinki.fi/ilmo/Yk?kk=582380&lk=K&lv=2014&tp=K&knro=1&kieli=E&toiminta=Luentokurssit)
  * Sign up cap 50 people
    * Not in registration order, we will decide who can participate if need be.
  * Sign up closes 26.2.
