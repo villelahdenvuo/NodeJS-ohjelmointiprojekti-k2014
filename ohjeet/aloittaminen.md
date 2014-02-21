@@ -94,7 +94,7 @@ Suosittelen myös tutustumaan [Gulp](https://github.com/gulpjs/gulp/blob/master/
 
 ![yeoman](../media/yeoman.png)
 
-[Yeoman](http://yeoman.io/) on työkalu, jolla on tarkois nopeasti päästä liikkeelle projektin kanssa ilman, että täytyy käyttää tolkuttomasti aikaa alkutoimiin, kuten työkalujen asenteluun ja konffaamiseen.
+[Yeoman](http://yeoman.io/) on työkalu, jolla on tarkoitus nopeasti päästä liikkeelle projektin kanssa ilman, että täytyy käyttää tolkuttomasti aikaa alkutoimiin, kuten työkalujen asenteluun ja konffaamiseen.
 
 Laitoksen palvelimella vaatii tosin vähän säätöä:
  * Jotta voit asentaa npm-moduuleja "globaalisti"
