@@ -34,6 +34,14 @@ http.createServer(function (req, res) {
 
 Huom. Sovellusta ei kannata laittaa `htdocs`-kansioon, kannattaa luoda sille oma kansio kotikansioon: `mkdir ~/nodeprojunnimi`
 
+### [Kapsi](http://www.kapsi.fi/)
+
+Samoja ohjeita voi soveltaa, jos haluaa ajaa Nodea Kapsilla. Kapsi tarjoaa ilmaisia internet-palveluja käyttäjilleen, jäsenmaksua vastaan siis.
+
+Eli Node taas Apachen takana [mod_rewrite](http://www.kapsi.fi/ohjeet/mod_rewrite.html#proxy)llä, mutta Noden joutuu asentamaan itse esimerkiksi [nvm](https://github.com/creationix/nvm):n avulla.
+
+Kapsille saa myös avoimia portteja websocketteja varten, pyytämällä ylläpidolta.
+
 ## Noden ajaminen Herokussa
 
  * Aloittaminen: https://devcenter.heroku.com/articles/getting-started-with-nodejs
