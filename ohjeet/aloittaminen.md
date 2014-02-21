@@ -1,8 +1,10 @@
 # Aloittaminen
 
-Nodea pystyy ajamaan laitoksen users-palvelimella (`users.cs.helsinki.fi`).
+Nodea pystyy ajamaan laitoksen users-palvelimella (`users.cs.helsinki.fi`). **Mutta valitettavasti siellä ei voi käyttää websocketteja**, koska laitoksen Apache ei tue websocketteja.
 
-## Noden käyttöönotto
+Siispä kannattaa ehkä katsoa [Noden ajaminen Herokussa](#noden-ajaminen-herokussa).
+
+## Noden ajaminen laitoksen palvelimella
 
  * [Lue ohjeet.](http://users.cs.helsinki.fi/README.users.cs.helsinki.fi.txt)
  * Suorita `wanna-htdocs`.
@@ -30,11 +32,16 @@ http.createServer(function (req, res) {
 
  * Nyt http://TUNNUS.users.cs.helsinki.fi/ pitäisi sanoa `Hello World!`
 
-## Sovelluksen luominen
+Huom. Sovellusta ei kannata laittaa `htdocs`-kansioon, kannattaa luoda sille oma kansio kotikansioon: `mkdir ~/nodeprojunnimi`
 
-Sovellusta ei kannata laittaa `htdocs`-kansioon, kannattaa luoda sille oma kansio kotikansioon: `mkdir ~/nodeprojunnimi`
+## Noden ajaminen Herokussa
 
-### Sovelluksen rakenne
+ * Aloittaminen: https://devcenter.heroku.com/articles/getting-started-with-nodejs
+ * Websockettien käyttö: https://devcenter.heroku.com/articles/node-websockets
+
+TODO: pull requesteja otetaan vastaan. :)
+
+## Sovelluksen rakenne
 
 Tässä on esimerkki pienestä projektistani [NodePieSpy](https://github.com/tuhoojabotti/NodePieSpy):sta.
 
@@ -59,18 +66,64 @@ Tässä on esimerkki pienestä projektistani [NodePieSpy](https://github.com/tuh
 └── README.md
 ```
 
-#### lib
+### lib
 
 Tänne on tarkoitus laittaa pieniä moduuleja ja "luokkia", jotka toimivat järkevästi yhteistyössä.
 
-#### index.js
+### index.js
 
 Täällä on tarkoitus ladata `lib`-kansiosta tarvittavat ja käynnistää sovellus. Tänne ei ole tarkoitus kirjoittaa suurta määrää koodia.
 
-#### [Gruntfile.js](http://gruntjs.com/getting-started)
+### [Gruntfile.js](http://gruntjs.com/getting-started)
 
 Suosittelen myös tutustumaan [Gulp](https://github.com/gulpjs/gulp/blob/master/docs/getting-started.md#getting-started):iin. Gulp on uudempi ja vaikuttaa yksinkertaisemmalta kuin Grunt, mutta siitä ei ole vielä kokemusta.
 
-#### [package.json](http://package.json.nodejitsu.com/)
+### [package.json](http://package.json.nodejitsu.com/)
 
 [npm](https://www.npmjs.org/) on Noden paketinhallintajärjestelmä, eli sillä hoidellaan sovelluksen riippuvuudet, jotka löytyy package.json-tiedostosta. Sinne kannattaa lisätä myös projektin metatietoja, niitä tarvitsee viimeistään, jos haluaa julkaista moduulin npm:ssä.
+
+## Yeoman
+
+![yeoman](../media/yeoman.png)
+
+[Yeoman](http://yeoman.io/) on työkalu, jolla on tarkois nopeasti päästä liikkeelle projektin kanssa ilman, että täytyy käyttää tolkuttomasti aikaa alkutoimiin, kuten työkalujen asenteluun ja konffaamiseen.
+
+Laitoksen palvelimella vaatii tosin vähän säätöä:
+ * Jotta voit asentaa npm-moduuleja "globaalisti"
+   * `npm config set prefix ~/npm`
+   * `echo 'export PATH=$HOME/npm/bin:$PATH' >> ~/.bashrc`
+ * Jotta Yeoman löytää asennetut generaattorit
+   * `echo 'export NODE_PATH=$NODE_PATH:$HOME/npm/lib/node_modules' >> ~/.bashrc`
+ * Tämän jälkeen käynnistä komentorivi uudestaan.
+
+### Gruntfilen luominen
+
+ * Asenna Yeoman `npm install -g yo`
+ * Asenna gruntfile generaattori `npm install -g generator-gruntfile`
+ * Ellet ole jo projektihakemistossa `cd nodeproju`
+ * Suorita generaattori `yo gruntfile`
+ * Asenna luodut riippuvuudet `npm install`
+ * Asenna Grunt `npm install -g grunt-cli`
+
+Yeoman generaattorimme loi meille valmiin Gruntfilen, jossa on valmiiksi `jshint`, `nodeunit` ja `watch` -toiminnot.
+
+Voit testailla niitä kutsumalla `grunt` (suorittaa default-taskin) tai `grunt jshint`:
+```
+:~/nodeproju$ grunt
+Running "jshint:gruntfile" (jshint) task
+>> 1 file lint free.
+
+Running "jshint:lib_test" (jshint) task
+>> 0 files linted. Please check your ignored files.
+
+Running "nodeunit:files" (nodeunit) task
+Warning: 0/0 assertions ran (0ms) Use --force to continue.
+
+Aborted due to warnings.
+```
+
+### Yeoman-generaattorit
+
+Kannattaa tutustua Yeomanin yhteisön tarjoamiin [generaattoreihin](http://yeoman.io/community-generators.html) ja etsiä sieltä kiva, millä pääsee nopeasti vauhtiin.
+
+
