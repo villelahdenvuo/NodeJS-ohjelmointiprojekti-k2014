@@ -1,5 +1,5 @@
-| [Ajankohtaista](#ajankohtaista) | [Aikataulu](#aikataulu) | [Materiaali](#materiaali) | [Ilmoittautuminen](#point_right-ilmoittautuminen-point_left) | [Käytännöt](#k%C3%A4yt%C3%A4nn%C3%B6t) | [Ohjaus](#ohjaus) |
-| ------------------------------- | ----------------------- | ------------------------- | ------------------------------------------------------------ | -------------------------------------- | ----------------- |
+| [Ajankohtaista](#ajankohtaista) | [Aikataulu](#aikataulu) | [Materiaali](#materiaali) | [Ilmoittautuminen](#point_right-ilmoittautuminen-point_left) | [Käytännöt](#k%C3%A4yt%C3%A4nn%C3%B6t) | [Ohjaus](#ohjaus) | [Ideoita](#projekti-ideoita) |
+| ------------------------------- | ----------------------- | ------------------------- | ------------------------------------------------------------ | -------------------------------------- | ----------------- | ---------------------------- |
 [![kurssiesite](./media/header.png)](./media/kurssiesite.jpg)
 <sub>*Kurssiesitteen teki [Firesong](http://tulilaulu.net/). ^Klikkaa nähdäksesi^*</sub>
 
@@ -62,6 +62,6 @@
  * Datavisualisaatio (real-time)
  * Selainpeli (ristinolla, bomberman, jne.)
 
-## Esimerkkiprojekteja
+### Esimerkkiprojekteja
  * [NodePieSpy](https://github.com/tuhoojabotti/NodePieSpy) (datavisualisaatio, joskin ei real-time)
  * [Socket.IO Chat](https://github.com/LearnBoost/socket.io/tree/master/examples/chat) (Real-time Chat App)
