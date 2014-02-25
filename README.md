@@ -1,5 +1,4 @@
 [![kurssiesite](./media/header.png)](./media/kurssiesite.jpg)
------------------------
 <sub>*Kurssiesitteen teki [Firesong](http://tulilaulu.net/). ^Klikkaa nähdäksesi^*</sub>
 
 **Toteuta unelmoimasi nodeprojekti yksin tai ryhmässä!**
