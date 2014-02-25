@@ -64,3 +64,13 @@ server.head('/hello/:name', respond);
 
 server.listen(3000);
 ```
+
+## Testaus
+
+### Mocha
+
+### Expect
+
+### Zuul
+
+## Rändöm
