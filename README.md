@@ -16,7 +16,7 @@
 | ---------------- | -------------- | -------------- | -------------- | -------------- | ---------- | ---------- |
 | [intro] 12:15    | [ohjaus] 12–16 | [ohjaus] 12–16 | [ohjaus] 12–16 | [ohjaus] 12–16 | :sleeping: | klo xx:xx  |
 | [ohjaus] 12–16   |                |                |                |                |            | [deadline] |
-| [aihekuvaus] 23:59 | :sweat:      | :sweat:        | :cold_sweat:   | :beer:         |            | [demo]     |
+| [aihekuvaus]     | :sweat:        | :sweat:        | :cold_sweat:   | :beer:         |            | [demo]     |
 
 [ohjaus]: #ohjaus
 [intro]: #ohjaus
@@ -46,7 +46,7 @@
    * Päivittäkää repoa useasti, ei yhtä suurta pushia kurssin lopuksi.
  * Kieli on JavaScript, eli ei esim. CoffeeScript.
  * Vaaditut dokumentit
-   * Aihekuvaus – alustava selitys projektin ideasta
+   * Aihekuvaus – alustava selitys projektin ideasta, **palautetaan viimeistään maanantaina**.
    * Käyttöohje – miten projekti ajetaan ja miten sitä käytetään (README:ssa ohjeet riittää)
 
 ## Ohjaus
