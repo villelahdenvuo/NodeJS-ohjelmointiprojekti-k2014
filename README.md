@@ -12,11 +12,11 @@
 
 ## Aikataulu
 
-| maanantai        | tiistai        | keskiviikko    | torstai        | perjantai      | vkl | maanantai       |
-| ---------------- | -------------- | -------------- | -------------- | -------------- | --- | --------------- |
-| [intro] 12:15    | [ohjaus] 12–16 | [ohjaus] 12–16 | [ohjaus] 12–16 | [ohjaus] 12–16 | ... | klo xx:xx       |
-| [ohjaus] 12–16   |                |                |                |                |     | [deadline]      |
-| [aihekuvaus] 23:59 |              |                |                |                |     | [demotilaisuus] |
+| maanantai        | tiistai        | keskiviikko    | torstai        | perjantai      | vkl        | maanantai                  |
+| ---------------- | -------------- | -------------- | -------------- | -------------- | ---------- | -------------------------- |
+| [intro] 12:15    | [ohjaus] 12–16 | [ohjaus] 12–16 | [ohjaus] 12–16 | [ohjaus] 12–16 | :sleeping: | klo xx:xx :checkered_flag: |
+| [ohjaus] 12–16   |                |                |                |                | ...        | [deadline]                 |
+| [aihekuvaus] 23:59 | :sweat:      | :sweat:        | :sweat:        | :beer:         |            | [demotilaisuus]            |
 
 [ohjaus]: #ohjaus
 [intro]: #ohjaus
