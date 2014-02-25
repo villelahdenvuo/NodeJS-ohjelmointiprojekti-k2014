@@ -5,10 +5,14 @@
 **Toteuta unelmoimasi nodeprojekti yksin tai ryhmässä!**
 
 ## Ajankohtaista
- * *25.2.2014* Päivitetty [aloittamisopasta](ohjeet/aloittaminen.md), lisätty table of contents
+ * *25.2.2014*
+   * Päivitetty [ohjaustietoja](#ohjaus)
+   * Lisätty [kivoja moduuleita](ohjeet/kivat-moduulit.md)
+   * Päivitetty [aloittamisopasta](ohjeet/aloittaminen.md), lisätty table of contents
 
 ## Materiaali
  * [Aloittaminen](ohjeet/aloittaminen.md)
+ * [Kivoja moduuleita](ohjeet/kivat-moduulit.md)
 
 ## [:point_right: Ilmoittautuminen :point_left:](https://ilmo.cs.helsinki.fi/ilmo/Yk?kk=582380&lk=K&lv=2014&tp=K&knro=1&kieli=S&toiminta=Luentokurssit)
  * Kurssin kapasiteetti 50 hlö
@@ -32,8 +36,8 @@
 ## Ohjaus
  * IRC 24h: #tkt-node
    * Avainhenkilöt: Ville Lahdenvuo ([Tuhis](http://tuhoojabotti.com/)), Tony Kovanen (Rase-), Mikko Johansson (mellowi)
- * Ma-Pe xx – xx
- * Ohjausten alussa on ehkä "luento-osuus", jos tulee jotain materiaalia. (Ekoilla kerroilla ainakin)
+ * Ma-Pe 12 – 16
+ * Ekalla kerralla on intro, joka kestää 0,5-1 tuntia.
  * Kysyttävää? Laita meiliä jollekin avainhenkilöistä. Osoitteet on tietenkin etunimi.sukunimi@helsinki.fi
 
 ## Projekti-ideoita
