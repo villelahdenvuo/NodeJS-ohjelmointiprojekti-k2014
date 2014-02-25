@@ -5,7 +5,10 @@
 **Toteuta unelmoimasi nodeprojekti yksin tai ryhmässä!**
 
 ## Ajankohtaista
- * 25.2.2014 Päivitetty aloittamisopasta, lisätty table of contents
+ * 25.2.2014 Päivitetty [aloittamisopasta](ohjeet/aloittaminen.md), lisätty table of contents
+
+## Materiaali
+ * [Aloittaminen](ohjeet/aloittaminen.md)
 
 ## [:point_right: Ilmoittautuminen :point_left:](https://ilmo.cs.helsinki.fi/ilmo/Yk?kk=582380&lk=K&lv=2014&tp=K&knro=1&kieli=S&toiminta=Luentokurssit)
  * Kurssin kapasiteetti 50 hlö
