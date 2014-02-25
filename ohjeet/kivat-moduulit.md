@@ -14,6 +14,9 @@
 	- [Flow-control](#flow-control)
 		- [Async](#async)
 		- [Highland](#highland)
+	- [Muut kuin web-sovellukset](#muut-kuin-web-sovellukset)
+		- [node-webkit](#node-webkit)
+		- [blessed](#blessed)
 	- [Lisää!](#lisää!)
 
 # Kivat moduulit
