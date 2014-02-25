@@ -18,6 +18,8 @@ Node.js projektina seuraa vahvasti unixin jalanjäljissä. Ideana on, että sove
 
 ## Web-frameworkit
 
+Pitkä lista: http://nodewebmodules.com/, joista osa on jo kuolleita projekteja kylläkin.
+
 ### Express
 
 [Express](http://expressjs.com/) is a minimal and flexible node.js web application framework, providing a robust set of features for building single and multi-page, and hybrid web applications.
@@ -48,10 +50,6 @@ app.use(function *(){
 if (!module.parent) app.listen(3000);
 ```
 
-### Geddy
-
-[Geddy](http://geddyjs.org/) is a simple, structured web framework for Node. (Lue: Rails-klooni)
-
 ### Restify
 
 [Restify](http://mcavage.me/node-restify/) is a node.js module built specifically to enable you to build correct REST web services. It intentionally borrows heavily from express as that is more or less the de facto API for writing web applications on top of node.js.
@@ -69,6 +67,14 @@ server.head('/hello/:name', respond);
 
 server.listen(3000);
 ```
+
+### Flatiron
+
+[Flatiron](http://flatironjs.org/) is an adaptable framework for building modern web applications. Flatiron's approach is to package simple to use yet full featured components and let developers subtract or add what they want.
+
+### Geddy
+
+[Geddy](http://geddyjs.org/) is a simple, structured web framework for Node. (Lue: Rails-klooni)
 
 ## Testaus
 
@@ -105,6 +111,49 @@ expect(window).not.to.be.an(Image);
 ### Zuul
 
 [Zuul](https://github.com/defunctzombie/zuul) is an easy way to test your javascript in browsers. Start testing your code in seconds locally and move to cloud based browsers seamlessly for better coverage.
+
+## Flow-control
+
+Miten taistella asynkronisuuden aiheuttamia ongelmia, kuten callback-helvettiä, vastaan?
+
+### Async
+
+[Async](https://github.com/caolan/async) is a utility module which provides straight-forward, powerful functions for working with asynchronous JavaScript.
+
+```javascript
+async.map(['file1','file2','file3'], fs.stat, function(err, results){
+    // results is now an array of stats for each file
+});
+
+async.filter(['file1','file2','file3'], fs.exists, function(results){
+    // results now equals an array of the existing files
+});
+
+async.parallel([
+    function(){ ... },
+    function(){ ... }
+], callback);
+
+async.series([
+    function(){ ... },
+    function(){ ... }
+]);
+```
+
+### Highland
+
+[Highland](http://highlandjs.org/) manages synchronous and asynchronous code easily, using nothing more than standard JavaScript and Node-like Streams. You may be familiar with Promises, EventEmitters and callbacks, but moving between them is far from seamless.
+
+```javascript
+var output = fs.createWriteStream('output');
+var docs = db.createReadStream();
+
+// wrap a node stream and pipe to file
+_(docs).filter(isBlogpost).pipe(output);
+
+// or, pipe in a node stream directly:
+docs.pipe(_().filter(isBlogpost)).pipe(output);
+```
 
 ## Lisää!
 
