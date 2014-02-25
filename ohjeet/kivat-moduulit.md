@@ -6,6 +6,11 @@
 		- [Koa](#koa)
 		- [Geddy](#geddy)
 		- [Restify](#restify)
+	- [Testaus](#testaus)
+		- [Mocha](#mocha)
+		- [Expect.js](#expectjs)
+		- [Zuul](#zuul)
+	- [Rändöm](#rändöm)
 
 # Kivat moduulit
 
