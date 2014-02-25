@@ -159,6 +159,16 @@ _(docs).filter(isBlogpost).pipe(output);
 docs.pipe(_().filter(isBlogpost)).pipe(output);
 ```
 
+## Muut kuin web-sovellukset
+
+### node-webkit
+
+[Node-webkit](https://github.com/rogerwang/node-webkit) is an app runtime based on Chromium and node.js. You can write native apps in HTML and Javascript with node-webkit. It also lets you call Node.js modules directly from the DOM and enables a new way of writing native applications with all Web technologies.
+
+### blessed
+
+[Blessed](https://github.com/chjj/blessed) is a newschool curses-like library. It features a complete terminfo, extended terminfo, and termcap parser, so it will work with any terminal if need be.
+
 ## Lisää!
 
 Tunnettuja Node all-star -henkilöitä, joilla on paljon kivoja moduuleja:
