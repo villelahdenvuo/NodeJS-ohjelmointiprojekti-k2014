@@ -12,11 +12,17 @@
 
 ## Aikataulu
 
-| maanantai    | tiistai      | keskiviikko  | torstai      | perjantai    | vkl | maanantai     |
-| ------------ | ------------ | ------------ | ------------ | ------------ | --- | ------------- |
-| intro 12:15  | ohjaus 12–16 | ohjaus 12–16 | ohjaus 12–16 | ohjaus 12–16 | ... | klo xx:xx     |
-| ohjaus 12–16 |              |              |              |              |     | deadline      |
-| aihekuvaus 23:59 |          |              |              |              |     | demotilaisuus |
+| maanantai        | tiistai        | keskiviikko    | torstai        | perjantai      | vkl | maanantai       |
+| ---------------- | -------------- | -------------- | -------------- | -------------- | --- | --------------- |
+| [intro] 12:15    | [ohjaus] 12–16 | [ohjaus] 12–16 | [ohjaus] 12–16 | [ohjaus] 12–16 | ... | klo xx:xx       |
+| [ohjaus] 12–16   |                |                |                |                |     | [deadline]      |
+| [aihekuvaus] 23:59 |              |                |                |                |     | [demotilaisuus] |
+
+[ohjaus]: #ohjaus
+[intro]: #ohjaus
+[aihekuvaus]: #k%C3%A4yt%C3%A4nn%C3%B6t
+[demotilaisuus]: #k%C3%A4yt%C3%A4nn%C3%B6t
+[deadline]: #k%C3%A4yt%C3%A4nn%C3%B6t
 
 ## Materiaali
  * [Aloittaminen](ohjeet/aloittaminen.md)
@@ -40,7 +46,7 @@
    * Päivittäkää repoa useasti, ei yhtä suurta pushia kurssin lopuksi.
  * Kieli on JavaScript, eli ei esim. CoffeeScript.
  * Vaaditut dokumentit
-   * Aihekuvaus – alustava selitys ideasta
+   * Aihekuvaus – alustava selitys projektin ideasta
    * Käyttöohje – miten projekti ajetaan ja miten sitä käytetään (README:ssa ohjeet riittää)
 
 ## Ohjaus
