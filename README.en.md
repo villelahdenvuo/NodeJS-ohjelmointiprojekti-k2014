@@ -4,7 +4,7 @@
 #### *Create your dream project alone or in a group!*
 
 # DISCLAIMER
- * **This document if out of date!**
+ * **This document if out of date, only for reference!**
  * **No official support for English, no material, just Google.**
  * **If you make a cool app, we will give you credits, just follow the conventions. :)**
  * **Guidance can be given in English to some extent.**
