@@ -4,12 +4,16 @@
 	- [Web-frameworkit](#web-frameworkit)
 		- [Express](#express)
 		- [Koa](#koa)
-		- [Geddy](#geddy)
 		- [Restify](#restify)
+		- [Flatiron](#flatiron)
+		- [Geddy](#geddy)
 	- [Testaus](#testaus)
 		- [Mocha](#mocha)
 		- [Expect.js](#expectjs)
 		- [Zuul](#zuul)
+	- [Flow-control](#flow-control)
+		- [Async](#async)
+		- [Highland](#highland)
 	- [Lisää!](#lisää!)
 
 # Kivat moduulit
