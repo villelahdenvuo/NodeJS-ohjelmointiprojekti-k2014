@@ -68,7 +68,7 @@ Kapsille saa myös avoimia portteja websocketteja varten, pyytämällä ylläpid
  * Websockettien käyttö: https://devcenter.heroku.com/articles/node-websockets
  * Heroku-toolbelt -ohje https://github.com/mluukkai/WebPalvelinohjelmointi2014/blob/master/web/viikko1.md#sovellus-internettiin
 
-TODO: pull requesteja otetaan vastaan. Eli jos törmäät ongelmiin ja keksit ratkaisun, niin niitä saa lisätä tänne ja laittaa Githubissa pull requestin, paina vain edit-nappulaa. :)
+Pull requesteja otetaan vastaan. Eli jos törmäät ongelmiin ja keksit ratkaisun, niin niitä saa lisätä tänne ja laittaa Githubissa pull requestin, paina vain edit-nappulaa. :)
 
 ## Sovelluksen rakenne
 
