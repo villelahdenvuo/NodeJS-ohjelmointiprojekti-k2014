@@ -47,3 +47,4 @@
 
 ## Esimerkkiprojekteja
  * [NodePieSpy](https://github.com/tuhoojabotti/NodePieSpy) (datavisualisaatio, joskin ei real-time)
+ * [Socket.IO Chat](https://github.com/LearnBoost/socket.io/tree/master/examples/chat) (Real-time Chat App)
