@@ -5,7 +5,7 @@
 **Toteuta unelmoimasi nodeprojekti yksin tai ryhmässä!**
 
 ## Ajankohtaista
- * 25.2.2014 Päivitetty [aloittamisopasta](ohjeet/aloittaminen.md), lisätty table of contents
+ * *25.2.2014* Päivitetty [aloittamisopasta](ohjeet/aloittaminen.md), lisätty table of contents
 
 ## Materiaali
  * [Aloittaminen](ohjeet/aloittaminen.md)
