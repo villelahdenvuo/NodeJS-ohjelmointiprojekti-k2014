@@ -69,8 +69,36 @@ server.listen(3000);
 
 ### Mocha
 
-### Expect
+[Mocha](https://github.com/visionmedia/mocha) - simple, flexible, fun javascript test framework for node.js & the browser. (BDD, TDD, QUnit styles via interfaces) 
+
+```javascript
+describe('decoding error handing', function () {
+  var err = { type: 'error', data: 'parser error' };
+  
+  it('should disallow bad format', function () {
+    expect(decode(':::')).to.eql(err);
+  });
+  
+  it('should disallow inexistent types', function () {
+    expect(decode('94103')).to.eql(err);
+  });
+});
+```
+
+### Expect.js
+
+[Expect.js](https://github.com/learnboost/expect.js) a minimalistic BDD assertion toolkit based on should.js.
+
+```javascript
+expect(window.r).to.be(undefined);
+expect({ a: 'b' }).to.eql({ a: 'b' })
+expect(5).to.be.a('number');
+expect([]).to.be.an('array');
+expect(window).not.to.be.an(Image);
+```
 
 ### Zuul
+
+[Zuul](https://github.com/defunctzombie/zuul) is an easy way to test your javascript in browsers. Start testing your code in seconds locally and move to cloud based browsers seamlessly for better coverage.
 
 ## Rändöm
