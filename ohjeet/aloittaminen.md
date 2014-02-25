@@ -1,5 +1,10 @@
 # Aloittaminen
 
+<img src="http://serveri.tulilaulu.net/merkit/doge.png" width=200 />
+*Such Node, so easy*
+
+<sub>*kuvan teki [Firesong](http://tulilaulu.net/).*</sub>
+
 Nodea pystyy ajamaan laitoksen users-palvelimella (`users.cs.helsinki.fi`). **Mutta valitettavasti siellä ei voi käyttää websocketteja**, koska laitoksen Apache ei tue websocketteja.
 
 Siispä kannattaa ehkä katsoa [Noden ajaminen Herokussa](#noden-ajaminen-herokussa).
@@ -46,8 +51,9 @@ Kapsille saa myös avoimia portteja websocketteja varten, pyytämällä ylläpid
 
  * Aloittaminen: https://devcenter.heroku.com/articles/getting-started-with-nodejs
  * Websockettien käyttö: https://devcenter.heroku.com/articles/node-websockets
+ * Heroku-toolbelt -ohje https://github.com/mluukkai/WebPalvelinohjelmointi2014/blob/master/web/viikko1.md#sovellus-internettiin
 
-TODO: pull requesteja otetaan vastaan. :)
+TODO: pull requesteja otetaan vastaan. Eli jos törmäät ongelmiin ja keksit ratkaisun, niin niitä saa lisätä tänne ja laittaa Githubissa pull requestin, paina vain edit-nappulaa. :)
 
 ## Sovelluksen rakenne
 
@@ -82,9 +88,11 @@ Tänne on tarkoitus laittaa pieniä moduuleja ja "luokkia", jotka toimivat järk
 
 Täällä on tarkoitus ladata `lib`-kansiosta tarvittavat ja käynnistää sovellus. Tänne ei ole tarkoitus kirjoittaa suurta määrää koodia.
 
-### [Gruntfile.js](http://gruntjs.com/getting-started)
+### Gruntfile.js
 
-Suosittelen myös tutustumaan [Gulp](https://github.com/gulpjs/gulp/blob/master/docs/getting-started.md#getting-started):iin. Gulp on uudempi ja vaikuttaa yksinkertaisemmalta kuin Grunt, mutta siitä ei ole vielä kokemusta.
+[Grunt](http://gruntjs.com/getting-started) on task runner, eli sille kerrotaan mitä tehdä, jonka jälkeen se tekee sen. Esimerkiksi tehtäviä voi olla testien ajaminen, sovelluksen deployaaminen, dokumentaation generoiminen, jne.
+
+Suosittelen myös tutustumaan [Gulp](https://github.com/gulpjs/gulp/blob/master/docs/getting-started.md#getting-started):iin. Gulp on uudempi ja vaikuttaa yksinkertaisemmalta kuin Grunt, mutta siitä ei ole vielä paljoa kokemusta.
 
 ### [package.json](http://package.json.nodejitsu.com/)
 
