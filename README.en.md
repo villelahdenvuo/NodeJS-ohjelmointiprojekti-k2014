@@ -1,20 +1,10 @@
-**Table of Contents**  *generated with [DocToc](http://doctoc.herokuapp.com/)*
-
-	- [[![kurssiesite](./media/header.png)](./media/kurssiesite.jpg)](#!kurssiesitemediaheaderpngmediakurssiesitejpg)
-			- [*Create your dream project alone or in a group!*](#create-your-dream-project-alone-or-in-a-group!)
-- [DISCLAIMER](#disclaimer)
-	- [[:point_right: Sign up :point_left:](https://ilmo.cs.helsinki.fi/ilmo/Yk?kk=582380&lk=K&lv=2014&tp=K&knro=1&kieli=E&toiminta=Luentokurssit)](#point_right-sign-up-point_lefthttpsilmocshelsinkifiilmoykkk=582380&lk=k&lv=2014&tp=k&knro=1&kieli=e&toiminta=luentokurssit)
-	- [Conventions](#conventions)
-	- [Guidance](#guidance)
-	- [Project ideas](#project-ideas)
-	- [Example projects](#example-projects)
-
 [![kurssiesite](./media/header.png)](./media/kurssiesite.jpg)
 -----------------------
 <sub>*Poster by [Firesong](http://tulilaulu.net/). ^Click to view^*</sub>
 #### *Create your dream project alone or in a group!*
 
 # DISCLAIMER
+ * **This document if out of date!**
  * **No official support for English, no material, just Google.**
  * **If you make a cool app, we will give you credits, just follow the conventions. :)**
  * **Guidance can be given in English to some extent.**
@@ -41,7 +31,7 @@
 ## Guidance
  * IRC 24h: #tkt-node
    * Key personnel: Ville Lahdenvuo ([Tuhis](http://tuhoojabotti.com/)), Tony Kovanen (Rase-), Mikko Johansson (mellowi)
- * Ma-Pe xx – xx (TBA)
+ * Ma-Pe 12 – 16
  * Before guidance starts there might be a "lecture", if there will be some material. (Finnish only)
  * Something to ask? Email one of the key personnel. Addresses are of course firstname.lastname@helsinki.fi
 
