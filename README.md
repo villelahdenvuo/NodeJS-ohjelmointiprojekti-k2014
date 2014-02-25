@@ -8,7 +8,7 @@
  * *25.2.2014*
    * Päivitetty [ohjaustietoja](#ohjaus)
    * Lisätty [materiaalia](#materiaali)
-   * Lisätty [aikataulu](#aikataulu)
+   * Lisätty selkeämpi [aikataulu](#aikataulu)
 
 ## Aikataulu
 
