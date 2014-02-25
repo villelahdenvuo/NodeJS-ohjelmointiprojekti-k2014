@@ -1,3 +1,18 @@
+**Table of Contents**  *generated with [DocToc](http://doctoc.herokuapp.com/)*
+
+- [Aloittaminen](#aloittaminen)
+	- [Noden ajaminen laitoksen palvelimella](#noden-ajaminen-laitoksen-palvelimella)
+		- [[Kapsi](http://www.kapsi.fi/)](#kapsihttpwwwkapsifi)
+	- [Noden ajaminen Herokussa](#noden-ajaminen-herokussa)
+	- [Sovelluksen rakenne](#sovelluksen-rakenne)
+		- [lib](#lib)
+		- [index.js](#indexjs)
+		- [Gruntfile.js](#gruntfilejs)
+		- [[package.json](http://package.json.nodejitsu.com/)](#packagejsonhttppackagejsonnodejitsucom)
+	- [Yeoman](#yeoman)
+		- [Gruntfilen luominen](#gruntfilen-luominen)
+		- [Yeoman-generaattorit](#yeoman-generaattorit)
+
 # Aloittaminen
 
 <img src="http://serveri.tulilaulu.net/merkit/doge.png" width=200 />

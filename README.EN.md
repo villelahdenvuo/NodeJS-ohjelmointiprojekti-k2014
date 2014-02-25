@@ -1,3 +1,14 @@
+**Table of Contents**  *generated with [DocToc](http://doctoc.herokuapp.com/)*
+
+	- [[![kurssiesite](./media/header.png)](./media/kurssiesite.jpg)](#!kurssiesitemediaheaderpngmediakurssiesitejpg)
+			- [*Create your dream project alone or in a group!*](#create-your-dream-project-alone-or-in-a-group!)
+- [DISCLAIMER](#disclaimer)
+	- [[:point_right: Sign up :point_left:](https://ilmo.cs.helsinki.fi/ilmo/Yk?kk=582380&lk=K&lv=2014&tp=K&knro=1&kieli=E&toiminta=Luentokurssit)](#point_right-sign-up-point_lefthttpsilmocshelsinkifiilmoykkk=582380&lk=k&lv=2014&tp=k&knro=1&kieli=e&toiminta=luentokurssit)
+	- [Conventions](#conventions)
+	- [Guidance](#guidance)
+	- [Project ideas](#project-ideas)
+	- [Example projects](#example-projects)
+
 [![kurssiesite](./media/header.png)](./media/kurssiesite.jpg)
 -----------------------
 <sub>*Poster by [Firesong](http://tulilaulu.net/). ^Click to view^*</sub>
