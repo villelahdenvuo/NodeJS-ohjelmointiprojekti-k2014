@@ -26,10 +26,11 @@
 [deadline]: #k%C3%A4yt%C3%A4nn%C3%B6t
 
 ## Materiaali
- * [Aloittaminen](ohjeet/aloittaminen.md)
+ * [Miten päästä alkuun](ohjeet/aloittaminen.md)
  * [Kivoja moduuleita](ohjeet/kivat-moduulit.md)
  * [Kivoja työkaluja](ohjeet/kivat-tyokalut.md)
- * [Paljon linkkejä](https://github.com/sergtitov/NodeJS-Learning/blob/master/README.md)
+ * [Paljon linkkejä](https://github.com/sergtitov/NodeJS-Learning/blob/master/README.md) englanniksi
+ * [Node:n dokumentaatio](http://devdocs.io/node/) kivasti selattavana
 
 ## [:point_right: Ilmoittautuminen :point_left:](https://ilmo.cs.helsinki.fi/ilmo/Yk?kk=582380&lk=K&lv=2014&tp=K&knro=1&kieli=S&toiminta=Luentokurssit)
  * Kurssin kapasiteetti 50 hlö
