@@ -106,4 +106,10 @@ expect(window).not.to.be.an(Image);
 
 [Zuul](https://github.com/defunctzombie/zuul) is an easy way to test your javascript in browsers. Start testing your code in seconds locally and move to cloud based browsers seamlessly for better coverage.
 
-## Rändöm
+## Lisää!
+
+Tunnettuja Node all-star -henkilöitä, joilla on paljon kivoja moduuleja:
+
+ * [Substack](http://npmsearch.com/?q=author:substack)
+ * [TJ](pmsearch.com/?q=author:tjholowaychuk)
+ * [Rauchg](http://npmsearch.com/?q=author:rauchg)
