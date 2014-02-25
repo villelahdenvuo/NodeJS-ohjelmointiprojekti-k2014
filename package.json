@@ -1,0 +1,25 @@
+{
+  "name": "NodeJS-ohjelmointiprojekti-k2014",
+  "version": "0.0.0",
+  "description": "Node.js on JavaScript-sovellusalusta, jolla on helppo kehittää nopeita, helposti skaalattavia verkkosovelluksia. Toteuta omasi yksin tai ryhmässä!",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/tuhoojabotti/NodeJS-ohjelmointiprojekti-k2014.git"
+  },
+  "keywords": [
+    "nodejs",
+    "course",
+    "university"
+  ],
+  "author": "Ville Lahdenvuo <tuhoojabotti@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tuhoojabotti/NodeJS-ohjelmointiprojekti-k2014/issues"
+  },
+  "homepage": "https://github.com/tuhoojabotti/NodeJS-ohjelmointiprojekti-k2014",
+  "devDependencies": {
+    "gulp": "^3.5.2"
+  }
+}
