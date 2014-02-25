@@ -1,12 +1,3 @@
-**Table of Contents**  *generated with [DocToc](http://doctoc.herokuapp.com/)*
-
-- [[![kurssiesite](./media/header.png)](./media/kurssiesite.jpg)](#!kurssiesitemediaheaderpngmediakurssiesitejpg)
-- [[:point_right: Ilmoittautuminen :point_left:](https://ilmo.cs.helsinki.fi/ilmo/Yk?kk=582380&lk=K&lv=2014&tp=K&knro=1&kieli=S&toiminta=Luentokurssit)](#point_right-ilmoittautuminen-point_lefthttpsilmocshelsinkifiilmoykkk=582380&lk=k&lv=2014&tp=k&knro=1&kieli=s&toiminta=luentokurssit)
-- [Käytännöt](#käytännöt)
-- [Ohjaus](#ohjaus)
-- [Projekti-ideoita](#projekti-ideoita)
-- [Esimerkkiprojekteja](#esimerkkiprojekteja)
-
 [![kurssiesite](./media/header.png)](./media/kurssiesite.jpg)
 -----------------------
 <sub>*Kurssiesitteen teki [Firesong](http://tulilaulu.net/). ^Klikkaa nähdäksesi^*</sub>
