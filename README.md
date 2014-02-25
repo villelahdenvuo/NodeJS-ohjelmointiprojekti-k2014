@@ -7,8 +7,16 @@
 ## Ajankohtaista
  * *25.2.2014*
    * Päivitetty [ohjaustietoja](#ohjaus)
-   * Lisätty [kivoja moduuleita](ohjeet/kivat-moduulit.md)
-   * Päivitetty [aloittamisopasta](ohjeet/aloittaminen.md), lisätty table of contents
+   * Lisätty [materiaalia](#materiaali)
+   * Lisätty [aikataulu](#aikataulu)
+
+## Aikataulu
+
+| maanantai    | tiistai      | keskiviikko  | torstai      | perjantai    | vkl         | maanantai     |
+| ------------ | ------------ | ------------ | ------------ | ------------ | ----------- | ------------- |
+| intro klo 12 | ohjaus 12-16 | ohjaus 12-16 | ohjaus 12-16 | ohjaus 12-16 | koodaamista | klo xx:xx     |
+| ohjaus 12-16 |              |              |              |              |             | deadline      |
+| aihekuvaus   |              |              |              |              |             | demotilaisuus |
 
 ## Materiaali
  * [Aloittaminen](ohjeet/aloittaminen.md)
@@ -27,7 +35,7 @@
 ## Käytännöt
  * Kaikille **pakollinen** demotilaisuus maanantaina 10.3. (kurssin deadline)
  * Tuntikirjanpito (~20h = 1 op)
-   * Ilman ei tule noppia
+   * **Ilman ei tule noppia**
    * Ryhmässä jokaisella oma kirjanpito
    * Päivittäkää repoa useasti, ei yhtä suurta pushia kurssin lopuksi.
  * Kieli on JavaScript, eli ei esim. CoffeeScript.
