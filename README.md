@@ -16,12 +16,12 @@
 | ---------------- | -------------- | -------------- | -------------- | -------------- | ---------- | -------------------------- |
 | [intro] 12:15    | [ohjaus] 12–16 | [ohjaus] 12–16 | [ohjaus] 12–16 | [ohjaus] 12–16 | :sleeping: | klo xx:xx :checkered_flag: |
 | [ohjaus] 12–16   |                |                |                |                |            | [deadline]                 |
-| [aihekuvaus] 23:59 | :sweat:      | :sweat:        | :cold_sweat:   | :beer:         |            | [demotilaisuus]            |
+| [aihekuvaus] 23:59 | :sweat:      | :sweat:        | :cold_sweat:   | :beer:         |            | [demo]            |
 
 [ohjaus]: #ohjaus
 [intro]: #ohjaus
 [aihekuvaus]: #k%C3%A4yt%C3%A4nn%C3%B6t
-[demotilaisuus]: #k%C3%A4yt%C3%A4nn%C3%B6t
+[demo]: #k%C3%A4yt%C3%A4nn%C3%B6t
 [deadline]: #k%C3%A4yt%C3%A4nn%C3%B6t
 
 ## Materiaali
