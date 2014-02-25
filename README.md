@@ -16,7 +16,7 @@
 | ---------------- | -------------- | -------------- | -------------- | -------------- | ---------- | -------------------------- |
 | [intro] 12:15    | [ohjaus] 12–16 | [ohjaus] 12–16 | [ohjaus] 12–16 | [ohjaus] 12–16 | :sleeping: | klo xx:xx :checkered_flag: |
 | [ohjaus] 12–16   |                |                |                |                | ...        | [deadline]                 |
-| [aihekuvaus] 23:59 | :sweat:      | :sweat:        | :sweat:        | :beer:         |            | [demotilaisuus]            |
+| [aihekuvaus] 23:59 | :sweat:      | :sweat:        | :cold_sweat:   | :beer:         |            | [demotilaisuus]            |
 
 [ohjaus]: #ohjaus
 [intro]: #ohjaus
