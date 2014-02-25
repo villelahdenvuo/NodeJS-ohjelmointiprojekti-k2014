@@ -10,7 +10,7 @@
 		- [Mocha](#mocha)
 		- [Expect.js](#expectjs)
 		- [Zuul](#zuul)
-	- [Rändöm](#rändöm)
+	- [Lisää!](#lisää!)
 
 # Kivat moduulit
 
