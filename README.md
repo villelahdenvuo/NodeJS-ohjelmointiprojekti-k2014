@@ -1,3 +1,5 @@
+| [Ajankohtaista](#ajankohtaista) | [Aikataulu](#aikataulu) | [Materiaali](#materiaali) | [Ilmoittautuminen](#point_right-ilmoittautuminen-point_left) | [Käytännöt](#k%C3%A4yt%C3%A4nn%C3%B6t) | [Ohjaus](#ohjaus) |
+| ------------------------------- | ----------------------- | ------------------------- | ------------------------------------------------------------ | -------------------------------------- | ----------------- |
 [![kurssiesite](./media/header.png)](./media/kurssiesite.jpg)
 <sub>*Kurssiesitteen teki [Firesong](http://tulilaulu.net/). ^Klikkaa nähdäksesi^*</sub>
 
