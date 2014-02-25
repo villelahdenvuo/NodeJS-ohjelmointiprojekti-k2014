@@ -14,9 +14,9 @@
 
 | maanantai    | tiistai      | keskiviikko  | torstai      | perjantai    | vkl         | maanantai     |
 | ------------ | ------------ | ------------ | ------------ | ------------ | ----------- | ------------- |
-| intro klo 12 | ohjaus 12-16 | ohjaus 12-16 | ohjaus 12-16 | ohjaus 12-16 | koodaamista | klo xx:xx     |
-| ohjaus 12-16 |              |              |              |              |             | deadline      |
-| aihekuvaus   |              |              |              |              |             | demotilaisuus |
+| intro 12:15  | ohjaus 12–16 | ohjaus 12–16 | ohjaus 12–16 | ohjaus 12–16 | koodaamista | klo xx:xx     |
+| ohjaus 12–16 |              |              |              |              |             | deadline      |
+| aihekuvaus 23:59 |          |              |              |              |             | demotilaisuus |
 
 ## Materiaali
  * [Aloittaminen](ohjeet/aloittaminen.md)
