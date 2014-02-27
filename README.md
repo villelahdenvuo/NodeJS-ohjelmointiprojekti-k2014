@@ -6,6 +6,9 @@
 **Toteuta unelmoimasi nodeprojekti yksin tai ryhmässä!**
 
 ## Ajankohtaista
+ * *27.2.2014*
+   * Ilmo sulkeutui
+   * [merkatkaa ryhmänne/projektinne](#ryhm%C3%A4nprojektin-ilmoittaminen)
  * *25.2.2014*
    * Päivitetty [ohjaustietoja](#ohjaus)
    * Lisätty [materiaalia](#materiaali)
@@ -33,15 +36,15 @@
  * [Paljon linkkejä](https://github.com/sergtitov/NodeJS-Learning/blob/master/README.md) englanniksi
  * [Node:n dokumentaatio](http://devdocs.io/node/) kivasti selattavana
 
-## [:point_right: Ilmoittautuminen kurssille :point_left:](https://ilmo.cs.helsinki.fi/ilmo/Yk?kk=582380&lk=K&lv=2014&tp=K&knro=1&kieli=S&toiminta=Luentokurssit)
+## Ilmoittautuminen kurssille
  * Kurssin kapasiteetti 50 hlö
    * Ei ilmoittautumisjärjestyksessä, vaan valitaan törkeästi käsin, jos tulee tunkua.
- * Ilmo sulkeutuu 26.2.
+ * Ilmo sulkeutui 26.2.
  * **Esitiedot**
    * JavaScript – frontend osaaminen riittää, ei tarvitse osata välttämättä ennestään Nodea.
    * Git – projektit tulee Githubiin, se helpottaa tarkistusta ja näyttää hyvältä CV:ssä.
 
-### Ryhmän/Projektin ilmoittaminen
+### :point_right: Ryhmän/Projektin ilmoittaminen :point_left:
 
 Myös sooloilijat ovat ryhmiä.
 
