@@ -8,7 +8,7 @@
 ## Ajankohtaista
  * *27.2.2014*
    * Ilmo sulkeutui
-   * [merkatkaa ryhmänne/projektinne](#ryhm%C3%A4nprojektin-ilmoittaminen)
+   * [merkatkaa ryhmänne/projektinne](#ilmoittautuminen-kurssille)
  * *25.2.2014*
    * Päivitetty [ohjaustietoja](#ohjaus)
    * Lisätty [materiaalia](#materiaali)
@@ -52,6 +52,7 @@ Myös sooloilijat ovat ryhmiä.
  * Paina "Edit" ja lisää ryhmäsi tiedot (siististi kiitos)
    * Kannattaa valita editorista Line wrap mode: no wrap
  * Paina "Propose file change"
+ * Jos ei onnistu niin meilillä tarvittavat tiedot Tuhikselle osoite löytyy [Ohjaus](#ohjaus)-kohdasta.
 
 ## Käytännöt
  * Kaikille **pakollinen** demotilaisuus maanantaina 10.3. (kurssin deadline)
