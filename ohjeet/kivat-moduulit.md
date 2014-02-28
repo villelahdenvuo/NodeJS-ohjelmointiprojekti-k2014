@@ -29,7 +29,7 @@ Pitkä lista: http://nodewebmodules.com/, joista osa on jo kuolleita projekteja 
 
 ### Express
 
-[Express](http://expressjs.com/) is a minimal and flexible node.js web application framework, providing a robust set of features for building single and multi-page, and hybrid web applications.
+[Express](http://expressjs.com/) on pieni mutta joustava node.js web-ohjelmistokehys, joka tarjoaa vankan joukon ominaisuuksia yksi- ja monisivuisten ohjelmistojen kehittämiseen.
 
 ```javascript
 var express = require('express');
@@ -44,7 +44,7 @@ app.listen(3000);
 
 ### Koa
 
-[Koa](http://koajs.com/) is a new web framework designed by the team behind Express, which aims to be a smaller, more expressive, and more robust foundation for web applications and APIs. Through leveraging generators Koa allows you to ditch callbacks and greatly increase error-handling.
+[Koa](http://koajs.com/) on uusi Express-kehittäjien suunnittelema ohjelmistokehys, jonka tarkoituksena on tarjota pienempi, ilmaisuvoimaisempi ja vakaampi perusta web-ohjelmistojen ja verkkorajapintojen kehitykseen. Hyödyntäen generaattoreita, Koa tekee callback-kutsut tarpeettomiksi ja tehostaa virheenkäsittelyä.
 
 ```javascript
 var koa = require('koa');
@@ -59,7 +59,7 @@ if (!module.parent) app.listen(3000);
 
 ### Restify
 
-[Restify](http://mcavage.me/node-restify/) is a node.js module built specifically to enable you to build correct REST web services. It intentionally borrows heavily from express as that is more or less the de facto API for writing web applications on top of node.js.
+[Restify](http://mcavage.me/node-restify/) on node.js-moduuli, joka on kehitetty oikeellisten REST-arkkitehtuurin mukaisten web-ohjelmistojen rakentamista varten. Se on ottanut runsaasti vaikutteita Expressistä, sillä se on aikalailla *de facto* rajapinta node.js web-applikaatioiden kirjoittamiseen.
 
 ```javascript
 var restify = require('restify');
@@ -77,17 +77,17 @@ server.listen(3000);
 
 ### Flatiron
 
-[Flatiron](http://flatironjs.org/) is an adaptable framework for building modern web applications. Flatiron's approach is to package simple to use yet full featured components and let developers subtract or add what they want.
+[Flatiron](http://flatironjs.org/) on mukautuva ohjelmistokehys modernien web-ohjelmistojen kehitykseen. Flatironin lähestymistapa on koota yhteen yksinkertaisia mutta eheitä komponentteja, ja antaa kehittäjien itse päättää mitä he niistä käyttävät.
 
 ### Geddy
 
-[Geddy](http://geddyjs.org/) is a simple, structured web framework for Node. (Lue: Rails-klooni)
+[Geddy](http://geddyjs.org/) on yksinkertainen, rakenteinen web-ohjelmistokehys node.js:lle. (Lue: Rails-klooni)
 
 ## Testaus
 
 ### Mocha
 
-[Mocha](https://github.com/visionmedia/mocha) - simple, flexible, fun javascript test framework for node.js & the browser. (BDD, TDD, QUnit styles via interfaces) 
+[Mocha](https://github.com/visionmedia/mocha) - yksinkertainen, joustava, ehkä jopa hauska javascript testauskehys node.js:lle ja selaimeen. (BDD, TDD ja QUnit-tyylit tuettu rajapintojen kautta)
 
 ```javascript
 describe('decoding error handing', function () {
@@ -105,7 +105,7 @@ describe('decoding error handing', function () {
 
 ### Expect.js
 
-[Expect.js](https://github.com/learnboost/expect.js) a minimalistic BDD assertion toolkit based on should.js.
+[Expect.js](https://github.com/learnboost/expect.js) on should.js:ään perustuva minimalistinen työkalu BDD-vakuutusten määrittelyyn.
 
 ```javascript
 expect(window.r).to.be(undefined);
