@@ -6,6 +6,8 @@
 **Toteuta unelmoimasi nodeprojekti yksin tai ryhmässä!**
 
 ## Ajankohtaista
+ * *1.3.2014*
+   * Lisätty [lisää projekti-ideoita](ohjeet/ideoita.md)
  * *27.2.2014*
    * Ilmo sulkeutui
    * [merkatkaa ryhmänne/projektinne](#ilmoittautuminen-kurssille)
@@ -76,6 +78,7 @@ Myös sooloilijat ovat ryhmiä.
  * Gurulachat
  * Datavisualisaatio (real-time)
  * Selainpeli (ristinolla, bomberman, jne.)
+ * [Lisää projekti-ideoita](ohjeet/ideoita.md)
 
 ### Esimerkkiprojekteja
  * [NodePieSpy](https://github.com/tuhoojabotti/NodePieSpy) (datavisualisaatio, joskin ei real-time)
