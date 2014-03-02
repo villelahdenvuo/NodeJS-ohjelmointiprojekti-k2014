@@ -6,6 +6,9 @@
 **Toteuta unelmoimasi nodeprojekti yksin tai ryhmässä!**
 
 ## Ajankohtaista
+ * *2.3.2014*
+   * Infomeili lähetetty, tervetuloa kurssille
+   * Doodle: [demotilaisuuden ajankohta](http://doodle.com/77kki6qq6wycxp2a)
  * *1.3.2014*
    * Lisätty [lisää projekti-ideoita](ohjeet/ideoita.md)
  * *27.2.2014*
