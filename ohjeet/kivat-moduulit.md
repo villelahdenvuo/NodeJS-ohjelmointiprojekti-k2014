@@ -147,6 +147,22 @@ async.series([
 ]);
 ```
 
+### After
+[After](https://github.com/Raynos/after) is a lightweight flow control library, that you dare to also use on a browser.
+
+```javascript
+var after = require("after")
+    , next = after(3, logItWorks)
+
+next()
+next()
+next() // it works
+
+function logItWorks() {
+    console.log("it works!")
+}
+```
+
 ### Highland
 
 [Highland](http://highlandjs.org/) manages synchronous and asynchronous code easily, using nothing more than standard JavaScript and Node-like Streams. You may be familiar with Promises, EventEmitters and callbacks, but moving between them is far from seamless.
