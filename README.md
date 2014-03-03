@@ -73,7 +73,7 @@ Myös sooloilijat ovat ryhmiä.
 ## Ohjaus
  * IRC 24h: [#tkt-node](https://kiwiirc.com/client/ircnet.eversible.com/#tkt-node)
    * Avainhenkilöt: Ville Lahdenvuo ([Tuhis](http://tuhoojabotti.com/)), Tony Kovanen (Rase-), Mikko Johansson (mellowi)
- * Ma-Pe 12 – 16
+ * Ma-Pe 12 – 16 luokassa BK107
  * Ekalla kerralla on intro, joka kestää 0,5-1 tuntia.
  * Kysyttävää? Laita meiliä jollekin avainhenkilöistä. Osoitteet on tietenkin etunimi.sukunimi@helsinki.fi
 
