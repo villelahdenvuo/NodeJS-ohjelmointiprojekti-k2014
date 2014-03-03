@@ -6,3 +6,4 @@
 | Carpenter          | https://github.com/deiga/Carpenter                               | Timo Sand (deiga), Sami Lunnamo (Taxus), Joonas Magnússon (Th0ra)
 | SSG                | https://github.com/zzats/SuperShooterGame                        | Ville Heikkinen (zzats)
 | node-calc          | https://github.com/SimSaladin/node-calc                          | Samuli Thomasson (SimSaladin)
+| EvolutionTheGame   | https://github.com/karrirasinmaki/EvolutionTheGame/              | Karri Rasinmäki
