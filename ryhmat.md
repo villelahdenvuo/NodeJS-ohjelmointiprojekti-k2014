@@ -19,3 +19,4 @@
 | noIdeaNodeChat     | https://github.com/TuukkaP/noIdeaNodeChat                        | Tuukka Peuraniemi (Deto-)
 | discreetBin        | https://github.com/narck/discreetBin                             | Nicolas Arkkila (narchie)
 | njs2k14            | https://github.com/tnatcshlsnki/njs2k14 :lock:                   | Tero Nurmiluoto (tnatcshlsnki/teronurm)
+| nodeveikkaus       | https://github.com/massproduction/nodeveikkaus                   | Panu Klemola
