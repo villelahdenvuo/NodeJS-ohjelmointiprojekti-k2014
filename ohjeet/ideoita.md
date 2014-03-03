@@ -1,3 +1,15 @@
+**Table of Contents**  *generated with [DocToc](http://doctoc.herokuapp.com/)*
+
+- [Ideoita projekteiksi](#ideoita-projekteiksi)
+	- [Visualisaatiot](#visualisaatiot)
+		- [Kurssien esitietovaatimukset](#kurssien-esitietovaatimukset)
+		- [MOOC-syke](#mooc-syke)
+		- [Gourmet](#gourmet)
+		- [Aktivator++ tulossivu](#aktivator++-tulossivu)
+		- [Koearkisto quizz](#koearkisto-quizz)
+		- [Seminaarien / kurssien aiheet](#seminaarien--kurssien-aiheet)
+		- [Uutiset](#uutiset)
+
 # Ideoita projekteiksi
 
 Tässä jotain ideanalkuja projekteille, niitä ei ole tarkoitus toteuttaa tällaisenaan vaan niitä on tarkoitus käyttää oman projektin ideoinnissa.

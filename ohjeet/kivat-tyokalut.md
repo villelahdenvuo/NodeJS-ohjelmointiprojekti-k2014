@@ -3,6 +3,7 @@
 - [Kivat työkalut](#kivat-työkalut)
 	- [SauceLabs](#saucelabs)
 	- [Travis CI](#travis-ci)
+	- [Browserify](#browserify)
 
 # Kivat työkalut
 
