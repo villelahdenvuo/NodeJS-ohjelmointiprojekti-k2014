@@ -13,3 +13,7 @@
 ## Travis CI
 
 [Travic CI](https://travis-ci.org/) on erittäin kätevä jatkuvan integroinnin työkalu.
+
+## Browserify
+
+[Browserify](http://browserify.org/) on työkalu jonka avulla voit koota common.js tyylistä require järjestelmää käyttävää JavaScript koodia yksittäiseksi JS tiedostoksi, jota voit sitten käyttää selaimella. Erityisen hyödyllinen kun haluat pystyä suorittamaan samaa koodia sekä Node:lla että selaimessa.
