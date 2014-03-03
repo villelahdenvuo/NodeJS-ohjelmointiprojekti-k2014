@@ -11,3 +11,4 @@
 | Filepilvi          | https://github.com/mattipulli/filepilvi                          | Matti Pulli
 | GetYoFilez         | https://github.com/VoittajaTomi/Nodebox                          | Tomi Boehm (VoittajaTomi), Andreas Niskanen (ydna-)
 | QuestionBoard      | https://github.com/owaltari/questionboard                        | Otto Waltari (otto_)
+| Raineri            | https://github.com/vastus/trainer                                | Juho Hautala, Elias, Nygren, Joni Salmi
