@@ -16,3 +16,4 @@
 | nodechat           | https://github.com/maaqu/nodechat                                | Markus Jantunen
 | node-goban         | https://github.com/olko23/node-goban                             | Olli Koistinen
 | Code Strife        | https://github.com/CodeStrife/scaling-tribble                    | Lassi Vapaakallio, Misa Jokisalo
+| noIdeaNodeChat     | https://github.com/TuukkaP/noIdeaNodeChat                        | Tuukka Peuraniemi (Deto-)
