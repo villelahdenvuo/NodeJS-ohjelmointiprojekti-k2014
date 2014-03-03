@@ -18,3 +18,4 @@
 | Code Strife        | https://github.com/CodeStrife/scaling-tribble                    | Lassi Vapaakallio, Misa Jokisalo
 | noIdeaNodeChat     | https://github.com/TuukkaP/noIdeaNodeChat                        | Tuukka Peuraniemi (Deto-)
 | discreetBin        | https://github.com/narck/discreetBin                             | Nicolas Arkkila (narchie)
+| njs2k14            | https://github.com/tnatcshlsnki/njs2k14 :lock:                   | Tero Nurmiluoto (tnatcshlsnki/teronurm)
