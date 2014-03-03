@@ -22,3 +22,4 @@
 | nodeveikkaus       | https://github.com/massproduction/nodeveikkaus                   | Panu Klemola
 | purjochat          | https://github.com/tl0/purjochat                                 | Teemu Lintula
 | Rpg Chat           | https://github.com/olofboo/RPG-Chat                              | Olli Björkqvist
+| Snake MMO          | https://github.com/psaikko/snake-mmo                             | Paul Saikko (ps)
