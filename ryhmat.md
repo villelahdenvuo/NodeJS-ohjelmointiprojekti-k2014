@@ -15,3 +15,4 @@
 | Tärkeetä just nyt  | https://github.com/atomim/tarkeeta-just-nyt                      | Olavi Lintumäki
 | CaratVisualizer    | https://bitbucket.org/snoella/caratvisualizer/ (pull request)    | Ella Peltonen (snorri)
 | nodechat           | https://github.com/maaqu/nodechat                                | Markus Jantunen
+| node-goban         | https://github.com/olko23/node-goban                             | Olli Koistinen
