@@ -13,3 +13,4 @@
 | QuestionBoard      | https://github.com/owaltari/questionboard                        | Otto Waltari (otto_)
 | Raineri            | https://github.com/vastus/trainer                                | Juho Hautala, Elias, Nygren, Joni Salmi
 | Tärkeetä just nyt  | https://github.com/atomim/tarkeeta-just-nyt                      | Olavi Lintumäki
+| CaratVisualizer    | https://bitbucket.org/snoella/caratvisualizer/ (pull request)    | Ella Peltonen (snorri)
