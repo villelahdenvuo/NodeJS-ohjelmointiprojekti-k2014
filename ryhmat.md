@@ -25,3 +25,4 @@
 | Breakout           | https://github.com/gire/breakout                                 | Yessergire Mohamed
 | Code Clicker       | https://github.com/samsalon/codeClicker                          | Sami Salonen, Tero Keinänen
 | Social Todo List   | https://github.com/porsa/social-node-todo                        | Kai Kulju, Mika Vikström, Jouni Varis
+| Image rating system | https://github.com/sorja/bugfree-ninja                          | mxO (sorja)
