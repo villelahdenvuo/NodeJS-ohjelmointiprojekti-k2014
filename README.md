@@ -6,23 +6,12 @@
 **Toteuta unelmoimasi nodeprojekti yksin tai ryhmässä!**
 
 ## Ajankohtaista
- * *7.3.2014*
-   * Ohjaus on loppunut, demo on maanantaina (10.3.) klo 13-15 luokassa BK107
- * *3.3.2014*
-   * Alkakaa koodaamaan!
- * *2.3.2014*
-   * Infomeili lähetetty, tervetuloa kurssille
-   * Doodle: [demotilaisuuden ajankohta](http://doodle.com/77kki6qq6wycxp2a)
- * *1.3.2014*
-   * Lisätty [lisää projekti-ideoita](ohjeet/ideoita.md)
- * *27.2.2014*
-   * Ilmo sulkeutui
-   * [merkatkaa ryhmänne/projektinne](#ilmoittautuminen-kurssille)
- * *25.2.2014*
-   * Päivitetty [ohjaustietoja](#ohjaus)
-   * Lisätty [materiaalia](#materiaali)
-   * Lisätty selkeämpi [aikataulu](#aikataulu)
-   * Miten [ilmoittautua](#ryhm%C3%A4nprojektin-ilmoittaminen)
+ * *7.3.* &ndash; Fyysinen ohjaus on ohi, demo on maanantaina (10.3.) klo 13-15 luokassa BK107
+ * *3.3.* &ndash; Alkakaa koodaamaan!
+ * *2.3.* &ndash; Infomeili lähetetty, tervetuloa kurssille, Doodle: [demotilaisuuden ajankohta](http://doodle.com/77kki6qq6wycxp2a)
+ * *1.3.* &ndash; Lisätty [lisää projekti-ideoita](ohjeet/ideoita.md)
+ * *27.2.* &ndash; Ilmo sulkeutui, [merkatkaa ryhmänne/projektinne](#ilmoittautuminen-kurssille)
+ * *25.2.* &ndash; Päivitetty [ohjaustietoja](#ohjaus), Lisätty [materiaalia](#materiaali), Lisätty selkeämpi [aikataulu](#aikataulu), Miten [ilmoittautua](#ryhm%C3%A4nprojektin-ilmoittaminen)
 
 ## Aikataulu
 
