@@ -6,6 +6,8 @@
 **Toteuta unelmoimasi nodeprojekti yksin tai ryhmässä!**
 
 ## Ajankohtaista
+ * *7.3.2014*
+   * Ohjaus on loppunut, demo on maanantaina (10.3.) klo 13-15 luokassa BK107
  * *3.3.2014*
    * Alkakaa koodaamaan!
  * *2.3.2014*
