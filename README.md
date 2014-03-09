@@ -55,7 +55,7 @@ Myös sooloilijat ovat ryhmiä.
  * Jos ei onnistu niin meilillä tarvittavat tiedot Tuhikselle osoite löytyy [Ohjaus](#ohjaus)-kohdasta.
 
 ## Käytännöt
- * Kaikille **pakollinen** demotilaisuus maanantaina 10.3. (kurssin deadline)
+ * Kaikille **pakollinen** demotilaisuus maanantaina 10.3. klo 13 luokassa B221 (**kurssin deadline siis 13:00**)
  * Tuntikirjanpito (~20h = 1 op)
    * **Ilman ei tule noppia**
    * Ryhmässä jokaisella oma kirjanpito
