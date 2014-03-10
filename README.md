@@ -19,7 +19,7 @@
 
 | maanantai        | tiistai        | keskiviikko    | torstai        | perjantai      | vkl        | maanantai  |
 | ---------------- | -------------- | -------------- | -------------- | -------------- | ---------- | ---------- |
-| [intro] 12:15    | [ohjaus] 12–16 | [ohjaus] 12–16 | [ohjaus] 12–16 | [ohjaus] 12–16 | :sleeping: | klo xx:xx  |
+| [intro] 12:15    | [ohjaus] 12–16 | [ohjaus] 12–16 | [ohjaus] 12–16 | [ohjaus] 12–16 | :sleeping: | klo 13:00  |
 | [ohjaus] 12–16   |                |                |                |                |            | [deadline] |
 | [aihekuvaus]     | :sweat:        | :sweat:        | :cold_sweat:   | :beer:         |            | [demo]     |
 
