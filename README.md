@@ -6,6 +6,7 @@
 **Toteuta unelmoimasi nodeprojekti yksin tai ryhmässä!**
 
 ## Ajankohtaista
+ * *15.3.* &ndash; Tulokset kirjattu. Kiitokset kurssista!
  * *9.3.* &ndash; Tässä loppuvaiheessa voisi olla kiva saada aikaansaannoksia internetseihin, vaikka [Herokuun](ohjeet/aloittaminen.md#noden-ajaminen-herokussa).
  * *8.3.* &ndash; Demo sittenkin luokassa B221.
  * *7.3.* &ndash; Fyysinen ohjaus on ohi, demo on maanantaina (10.3.) klo 13-15 luokassa ~~BK107~~ B221
